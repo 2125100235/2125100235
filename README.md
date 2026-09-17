@@ -6,4 +6,4 @@
 
 ## Contacto
 
-:mailbox: [2125100235](mailto:contacto@ejemplo.com)
+:mailbox: [2125100235@soy.utj.edu.mx](mailto:2125100235@soy.utj.edu.mx)
