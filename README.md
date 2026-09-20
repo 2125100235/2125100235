@@ -7,3 +7,12 @@
 ## Contacto
 
 :mailbox: [2125100235@soy.utj.edu.mx](mailto:2125100235@soy.utj.edu.mx)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
