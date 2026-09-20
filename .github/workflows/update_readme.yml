@@ -1,17 +1,23 @@
-name: Update README2
+name: Update README
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    # Cambiado a "0 */12 * * *" para que corra cada 12 horas exactas.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: Update Profile README
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    
+    # Damos permiso para modificar los archivos del repositorio
+    permissions:
+      contents: write
 
-      steps:
-      - uses: actions/checkout@v2.3.4
+    steps:
+      # 🔄 Actualizado a v4
+      - uses: actions/checkout@v4
       
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
