@@ -11,11 +11,11 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [2125100235/Practica_ControlDeVersiones](https://github.com/2125100235/Practica_ControlDeVersiones)<br>
-2. ⬆️ Pushed undefined commit(s) to [2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado](https://github.com/2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado)<br>
+2. ⬆️ Pushed undefined commit(s) to [2125100235/Practica_ControlDeVersiones](https://github.com/2125100235/Practica_ControlDeVersiones)<br>
 3. ⬆️ Pushed undefined commit(s) to [2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado](https://github.com/2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado)<br>
-4. ⬆️ Pushed undefined commit(s) to [2125100235/sistemasParaElControlDeUnaFarmacia-AppMovil](https://github.com/2125100235/sistemasParaElControlDeUnaFarmacia-AppMovil)<br>
+4. ⬆️ Pushed undefined commit(s) to [2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado](https://github.com/2125100235/sistemasParaElControlDeUnaFarmacia-Actualizado)<br>
 5. ⬆️ Pushed undefined commit(s) to [2125100235/sistemasParaElControlDeUnaFarmacia-AppMovil](https://github.com/2125100235/sistemasParaElControlDeUnaFarmacia-AppMovil)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 14th, 2026, 4:36:49 AM
+Last Updated: Saturday, November 14th, 2026, 5:34:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
